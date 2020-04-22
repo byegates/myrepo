@@ -7,7 +7,6 @@ Commandline tool for interacting with library
 import click, pandas as pd, pickle
 from click import echo
 
-from myrepolib.repomod import print_name
 from myrepolib import __version__
 
 def green(s):
