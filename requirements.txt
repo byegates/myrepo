@@ -1,6 +1,6 @@
 pytest
 pylint
-jupyter
+jupyterlab
 pytest-cov
 pandas
 nbval
